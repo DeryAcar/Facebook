@@ -2,7 +2,7 @@ package com.facebook.step_definations;
 
 import org.junit.Assert;
 
-import com.facebook.page.Facebook1;
+import com.facebook.page.FacebookLocators;
 import com.fcebook.utilities.Config;
 import com.fcebook.utilities.Drivers;
 
@@ -13,7 +13,7 @@ import cucumber.api.java.en.When;
 
 public class FacebookStepDef {
 
-	Facebook1 page =new Facebook1();
+	FacebookLocators page =new FacebookLocators();
 	
 	@Given("^User on sign in page$")
 	public void user_on_sign_in_page() throws Throwable {

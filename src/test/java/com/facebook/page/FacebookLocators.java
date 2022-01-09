@@ -6,10 +6,10 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.fcebook.utilities.Drivers;
 
-public class Facebook1 {
+public class FacebookLocators {
 static WebDriver driver;
 	
-	public Facebook1() {
+	public FacebookLocators() {
 		this.driver=Drivers.getDriver();
 		PageFactory.initElements(driver, this);
 	}
@@ -45,22 +45,5 @@ static WebDriver driver;
 	
 	
 	@FindBy(xpath="//div[@class=\"_1lch\"]//button[text()=\"Kaydol\"]")
-	public WebElement signInButton;
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	public WebElement signInButton;	
 }
