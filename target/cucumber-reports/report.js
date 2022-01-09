@@ -79,77 +79,77 @@ formatter.match({
   "location": "FacebookStepDef.user_on_sign_in_page()"
 });
 formatter.result({
-  "duration": 24202977700,
+  "duration": 28090606000,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_click_create_new_account_button()"
 });
 formatter.result({
-  "duration": 4656854500,
+  "duration": 3712787100,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_able_to_see_sign_up_title()"
 });
 formatter.result({
-  "duration": 5319986200,
+  "duration": 3877888600,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_able_to_see_sign_up_subtittle()"
 });
 formatter.result({
-  "duration": 3397429000,
+  "duration": 3443821000,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_able_to_see_firstname_label()"
 });
 formatter.result({
-  "duration": 3708407500,
+  "duration": 3391029800,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_able_to_see_lastname_label()"
 });
 formatter.result({
-  "duration": 201344900,
+  "duration": 336348500,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_able_to_see_mobile_number_or_email_label()"
 });
 formatter.result({
-  "duration": 166620400,
+  "duration": 487832300,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_able_to_see_new_password_label()"
 });
 formatter.result({
-  "duration": 548622100,
+  "duration": 459116400,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_able_to_see_birtday_header()"
 });
 formatter.result({
-  "duration": 448336400,
+  "duration": 489259300,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_able_to_see_gender_header()"
 });
 formatter.result({
-  "duration": 167715700,
+  "duration": 369709400,
   "status": "passed"
 });
 formatter.match({
   "location": "FacebookStepDef.user_able_to_see_sign_up_button_text()"
 });
 formatter.result({
-  "duration": 260070300,
+  "duration": 1402467700,
   "status": "passed"
 });
 });
