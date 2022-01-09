@@ -25,7 +25,7 @@ public class FacebookStepDef {
 	@When("^User click create new account button$")
 	public void user_click_create_new_account_button() throws Throwable {
 	   page.yeniHesapOlstur.click();
-	Thread.sleep(3000);
+	Thread.sleep(4000);
 	}
 
 	@Then("^User able to see sign up title$")
